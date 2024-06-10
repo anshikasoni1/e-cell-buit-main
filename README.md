@@ -3,4 +3,4 @@
 This is a Template Website project for E-Cell BUIT Bhopal
 
 **Check the live preview here -**
-https://anshikasoni1.github.io/e-cell-BUIT/
+https://anshikasoni1.github.io/e-cell-buit-main/
